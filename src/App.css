@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+}
+#body{
+  width: 100%;
+  height: 100vh;
+  background-image: radial-gradient(circle, #2056a8, #006eb7, #0085c0, #009ac3, #1caec4);
+  color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+#body hr{
+  width: 36%;
+}
